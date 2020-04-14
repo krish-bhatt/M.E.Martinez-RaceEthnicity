@@ -15,3 +15,16 @@ Data downloaded from United States Census. File contains yearly estimates of the
 By NYS County: Population Age distribution, household size, median household income (Katy):
 
 Data downloaded from United States Census Bureau: Quick Facts (https://www.census.gov/quickfacts/fact/map/newyorkcountymanhattanboroughnewyork/INC110218). CSV files were downloaded for the counties of New York in groups of 6 and one group of 2. The interactive map through which the counties of interest were selected allowed a maximum of 6 counties to be selected at a time for data download. I manually selected counties in groups of 6 and downloaded the .csv files, then combined them into one using Microsoft Excel. For population age distribution, the data included percent of the population under 5, under 18, and 65 and over. It includes the average persons per household over the years 2014-2018. It includes the median household income in 2018 dollars over the years 2014-2018. 
+
+Prevalence of Preexisting Risk Factors (Dennis): 
+"Community_Health_Indicator_Reports__CHIRS___Latest_Data.csv" and "2018-chp-pud.xlsx"
+More detailed information about these files can also be found in my R file "DK_Risk_Analysis.R"
+
+"Community_Health_Indicator_Reports__CHIRS___Latest_Data.csv"
+NY State county-level data on the prevalence of many comorbidities and risk factors, including hypertension, diabetes, CVD, COPD, amd obesity.
+Downloaded from: https://healthdata.gov/dataset/community-health-indicator-reports-chirs-latest-data
+
+"2018-chp-pud.xlsx"
+NYC-specific data on risk factors. Organized by Commnity Districts, allows for closer analysis of patterns within NYC.
+Data downloaded from the NYC DOH: 
+https://www1.nyc.gov/site/doh/data/data-publications/profiles.page#bx
