@@ -28,3 +28,9 @@ Downloaded from: https://healthdata.gov/dataset/community-health-indicator-repor
 NYC-specific data on risk factors. Organized by Commnity Districts, allows for closer analysis of patterns within NYC.
 Data downloaded from the NYC DOH: 
 https://www1.nyc.gov/site/doh/data/data-publications/profiles.page#bx
+
+
+COVID-19 Testing (Sunder) 
+"newyork_testing.xlsx"
+Number of tests of individuals for COVID-19 infection performed in New York State and New York City beginning March 1, 2020, when the first case of COVID-19 was identified in the state.
+Downloaded from: https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e
