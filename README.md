@@ -30,13 +30,15 @@ Data downloaded from the NYC DOH:
 https://www1.nyc.gov/site/doh/data/data-publications/profiles.page#bx
 
 
-COVID-19 Testing (Sunder) 
-"newyork_testing.xlsx"
-Number of tests of individuals for COVID-19 infection performed in New York State and New York City beginning March 1, 2020, when the first case of COVID-19 was identified in the state.
+COVID-19 Testing (Sunder)  
+"newyork_testing.xlsx"  
+Number of tests of individuals for COVID-19 infection performed in New York State and New York City beginning March 1, 2020, when the first case of COVID-19 was identified in the state.  
+Contains data for New York State and New York City  
 Downloaded from: https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e  
 
 
 NY Nursing Home Weekly Bed Census (Sunder)  
 "nursing_censuscapacity.xlsx"  
 The Department of Health requires nursing homes to complete electronic filing of each facility's licensed nursing home beds and availability by bed category on a weekly basis. All nursing homes are requested to submit their Weekly Bed Census between Wednesday and Friday of each week, based on the census at 12:00 AM on Wednesday night. The Nursing Home Weekly Bed Census data is the most recent data available.  
-Contains data for New York State and New York City 
+Contains data for New York State and New York City  
+Downloaded from: https://health.data.ny.gov/Health/Nursing-Home-Weekly-Bed-Census-Last-Submission/izta-vnpq
