@@ -42,3 +42,7 @@ NY Nursing Home Weekly Bed Census (Sunder)
 The Department of Health requires nursing homes to complete electronic filing of each facility's licensed nursing home beds and availability by bed category on a weekly basis. All nursing homes are requested to submit their Weekly Bed Census between Wednesday and Friday of each week, based on the census at 12:00 AM on Wednesday night. The Nursing Home Weekly Bed Census data is the most recent data available.  
 Contains data for New York State and New York City  
 Downloaded from: https://health.data.ny.gov/Health/Nursing-Home-Weekly-Bed-Census-Last-Submission/izta-vnpq
+
+Mortality by causes of death related to COVID-19 vulnerabilities (monthly going back at least 5 years) note: the mortality data will be useful for us to estimate excess deaths from COVID-19 for people who may die from COVID-19 but are not reported as a COVID-19 deaths due to lack of testing. (Leore)
+"Disease_Codes_Covid"
+This file contains a table that describes possible ICD-10 codes to use for filtering out underlying causes of death that may reflect a COVID-19 death or be related to a COVID-19 vulnerability. It does not not contain individual data.
