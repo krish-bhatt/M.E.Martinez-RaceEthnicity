@@ -43,10 +43,13 @@ The Department of Health requires nursing homes to complete electronic filing of
 Contains data for New York State and New York City  
 Downloaded from: https://health.data.ny.gov/Health/Nursing-Home-Weekly-Bed-Census-Last-Submission/izta-vnpq
 
-Mortality by causes of death related to COVID-19 vulnerabilities (monthly going back at least 5 years) note: the mortality data will be useful for us to estimate excess deaths from COVID-19 for people who may die from COVID-19 but are not reported as a COVID-19 deaths due to lack of testing. (Leore)
+Mortality by causes of death related to COVID-19 vulnerabilities (monthly going back at least 5 years). Note: the mortality data will be useful for us to estimate excess deaths from COVID-19 for people who may die from COVID-19 but are not reported as a COVID-19 deaths due to lack of testing. (Leore)
+
+"LL_MortalitybyCauseofDeath_CountyMonth_2013-2018.csv"
+This data contains the number, cause of death (in name & by ICD-10 code), and crude rates of death by this cause, by county and by month. It contains all cause of death data for 5 years, from 2013-2018. 
 
 "LL_MortalitybyCauseofDeath_County_1998-2018.csv"
-This data contains the number, cause of death (in name & by ICD-10 code), and crude rates of death by this cause, by county. It contains all cause of death data from 1998-2018. This may be helpful if we want to see rates from more than 5 years of data. It currently is not separated out by month.
+This data contains the number, cause of death (in name & by ICD-10 code), and crude rates of death by this cause, by county. It contains all cause of death data for 10 years, 1998-2018. This may be helpful if we want to see rates from more than 5 years of data. It currently is not separated out by month.
 
-"Disease_Codes_Covid.xslx"
+"LL_ICD10_CovidCodes.csv"
 This file contains a table that describes possible ICD-10 codes to use for filtering out underlying causes of death that may reflect a COVID-19 death or be related to a COVID-19 vulnerability. It does not not contain individual data.
