@@ -96,5 +96,5 @@ Occupation in NYS by county
 This data was extracted from the 2018 U.S. Census Bureau American Community Survey (5-year data). 
 Note: 5-year data was used because the 1-year dataset did not include all 62 counties.
 
-This dataset contains the overall population number, and number of people and percent population per variable stratified by age, sex, race, and ethnicity. Occupation is reported by industry and then specified within industry. 
+This dataset contains the overall population number, and number of people and percent population per category. Occupation is reported by industry and then specified within industry. 
 __________
