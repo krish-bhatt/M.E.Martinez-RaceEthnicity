@@ -73,3 +73,12 @@ This data was extracted from the 2018 NYC Open Data Community Health Profiles. T
 Note: Latino is included as a race in this dataset. 
 
 The dataset contains the overall population number, number of people by racial categories (White, Black, Asian, Latino, Other), and SES variables such as educational attainment, foreign-born status, limited english proficiency, poverty, unemployment, rent-burdened households, gentrificaiton, and incarceration.
+
+__________
+Race in NYS by county (2018)
+"race_NYS_county_2018_5yr_KJB.csv"
+
+This data was extracted from the 2018 U.S. Census Bureau American Community Survey (5-year data). 
+Note: 5-year data was used because the 1-year dataset did not include all 62 counties. Latino is not included in this dataset.
+
+This dataset contains the overall population number and number of people by racial categories as follows: "White alone," "Black or African American Alone," "American Indian or Alaska Native alone," "Asian Alone," "Some other race alone," "Two or more races," "Two or more races including Some other race," "Two or more races excluding Some other race, and three or more races." I calculated percent population by racial category. 
