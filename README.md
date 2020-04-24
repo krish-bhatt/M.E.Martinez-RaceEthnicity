@@ -41,7 +41,13 @@ NY Nursing Home Weekly Bed Census (Sunder)
 "nursing_censuscapacity.xlsx"  
 The Department of Health requires nursing homes to complete electronic filing of each facility's licensed nursing home beds and availability by bed category on a weekly basis. All nursing homes are requested to submit their Weekly Bed Census between Wednesday and Friday of each week, based on the census at 12:00 AM on Wednesday night. The Nursing Home Weekly Bed Census data is the most recent data available.  
 Contains data for New York State and New York City  
-Downloaded from: https://health.data.ny.gov/Health/Nursing-Home-Weekly-Bed-Census-Last-Submission/izta-vnpq
+Downloaded from: https://health.data.ny.gov/Health/Nursing-Home-Weekly-Bed-Census-Last-Submission/izta-vnpq  
+
+
+Average Commute Times for New Yorkers (Sunder)
+"MeanCommuteTime_byTransportationType.csv"  
+Mean travel time and margin of error from residence* to workplace* for workers who are 16 years and older and who are not working from home. All residences and workplaces are New York City boroughs.* Broken down by transportation type (car, truck, or van - drove alone; car, truck or van - carpooled; public transportation; bicycle or walked; taxicab, motorcylce or other method)  
+
 
 Mortality by causes of death related to COVID-19 vulnerabilities (monthly going back at least 5 years). Note: the mortality data will be useful for us to estimate excess deaths from COVID-19 for people who may die from COVID-19 but are not reported as a COVID-19 deaths due to lack of testing. (Leore)
 
