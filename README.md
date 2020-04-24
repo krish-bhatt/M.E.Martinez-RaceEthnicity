@@ -66,7 +66,9 @@ This data contains the number, cause of death (in name & by ICD-10 code), and cr
 This file contains a table that describes possible ICD-10 codes to use for filtering out underlying causes of death that may reflect a COVID-19 death or be related to a COVID-19 vulnerability. It does not not contain individual data.
 
 __________
+Race/Ethnicity and Socioeconomic Factors in NYC by Borough and Neighborhood (2018)
 "raceethSES_NYC_neighborhood+borough_2018_1yr_KJB.xlsx"
+
 This data was extracted from the 2018 NYC Open Data Community Health Profiles. This is assumed to be 1-year data. 
 Note: Latino is included as a race in this dataset. 
 
