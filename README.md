@@ -44,7 +44,7 @@ Contains data for New York State and New York City
 Downloaded from: https://health.data.ny.gov/Health/Nursing-Home-Weekly-Bed-Census-Last-Submission/izta-vnpq  
 
 
-Average Commute Times for New Yorkers (Sunder)
+Average Commute Times for New Yorkers (Sunder)  
 "MeanCommuteTime_byTransportationType.csv"  
 Mean travel time and margin of error from residence* to workplace* for workers who are 16 years and older and who are not working from home. All residences and workplaces are New York City boroughs.* Broken down by transportation type (car, truck, or van - drove alone; car, truck or van - carpooled; public transportation; bicycle or walked; taxicab, motorcylce or other method)  
 
