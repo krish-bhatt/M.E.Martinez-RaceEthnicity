@@ -82,3 +82,5 @@ This data was extracted from the 2018 U.S. Census Bureau American Community Surv
 Note: 5-year data was used because the 1-year dataset did not include all 62 counties. Racial categories are stratified by Latino vs. Non-Latino.
 
 This dataset contains the overall population number and number of people by racial categories as follows: "White alone," "Black or African American Alone," "American Indian or Alaska Native alone," "Asian Alone," "Some other race alone," "Two or more races," "Two or more races including Some other race," "Two or more races excluding Some other race, and three or more races." 
+
+__________
