@@ -44,6 +44,7 @@ __________
 Average Commute Times for New Yorkers (Sunder)  
 "MeanCommuteTime_byTransportationType.csv"  
 Mean travel time and margin of error from residence* to workplace* for workers who are 16 years and older and who are not working from home. All residences and workplaces are New York City boroughs.* Broken down by transportation type (car, truck, or van - drove alone; car, truck or van - carpooled; public transportation; bicycle or walked; taxicab, motorcylce or other method)  
+Downloaded from: http://data5.ctpp.transportation.org/ctpp1216/Browse/browsetables.aspx
 __________
 Mortality by causes of death related to COVID-19 vulnerabilities (monthly going back at least 5 years). Note: the mortality data will be useful for us to estimate excess deaths from COVID-19 for people who may die from COVID-19 but are not reported as a COVID-19 deaths due to lack of testing. (Leore)
 
